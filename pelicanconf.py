@@ -7,6 +7,10 @@ SITEURL = ''
 
 PATH = 'content'
 
+PLUGIN_PATHS = ['/home/steve/Pelican/pelican-plugins/']
+PLUGINS = ['assets', 'sitemap', 'gravatar']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
