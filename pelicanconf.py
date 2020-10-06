@@ -7,13 +7,18 @@ SITEURL = ''
 
 PATH = 'content'
 
-PLUGIN_PATHS = ['/home/steve/Pelican/pelican-plugins/']
-PLUGINS = ['assets', 'sitemap', 'gravatar']
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
+
+ARCHIVES_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
+TAGS_SAVE_AS = ''
+RELATIVE_URLS = 'True'
+THEME = 'Flex'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

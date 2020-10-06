@@ -22,4 +22,4 @@ So I logged into her machine using my credentials and pulled the program that sh
  My tenaciousness and care for what the problem the customer is facing, will be representing the very high standards that AWS is always upholding.
 
  
-I have always have a yearning to learn new things. In having passing my AWS Cloud Practitioner Exam,  The role in AWS will give me very good grounding with hands on experience in demonstrating my newly attained skills from the AWS Cloud Practitioner course run by Generations, and this will give me good grounding in preparation for the AWS Sysops Exam.           I want to specialise in Administration. 
+I have always have a yearning to learn new things. In having passing my AWS Cloud Practitioner Exam,  The role in AWS will give me very good grounding with hands on experience in demonstrating my newly attained skills from the AWS Cloud Practitioner course run by Generations, and this will give me good grounding in preparation for the AWS Sysops Exam.I want to specialise in Administration. 
